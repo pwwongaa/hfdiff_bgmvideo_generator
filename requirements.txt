@@ -1,0 +1,5 @@
+audiocraft==1.0.0
+torch>=2.0.0
+torchaudio>=2.0.0
+Pillow>=10.0.0
+requests>=2.31.0
