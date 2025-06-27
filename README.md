@@ -1,2 +1,17 @@
-# hfdiff_bgmvideo_generator
-🎵 Generate AI-based BGM videos from text prompts — automate music, visuals, and video creation in Python.  Using MusicGen and HF DIffusion Model etc.
+# 🎵 generate-bgm-video
+
+A Python tool to generate BGM (background music) videos using AI audio and visual generation tools. Designed for automation and creative workflows.
+
+## 🚀 Features
+
+- Generate background music from text prompts
+- Create matching visual components
+- Combine them into a final video output
+- Batch processing support
+
+## 📦 Requirements
+
+Install the required packages:
+
+```bash
+pip install -r requirements.txt
